@@ -1,5 +1,7 @@
 En medio de una mar de sentimientos
  he decidido dejar de nadar para escribir lo que veo 
-quizas esto signifique mi fin,
+este cambio se da desde la rama cap2
 pero escribirle barcos de papel
 en los cuales ustedes prodran navegar. hola
+
+estos camñbios son en la rama 2 que se llama cap2 por ende no deben aparecer en la rama main para poder viajar entre ramas.
